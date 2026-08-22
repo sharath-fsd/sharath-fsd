@@ -219,11 +219,26 @@ A backend-focused rental management application for managing vehicles, users, bo
 
 ---
 
-# 🐍 Contribution Graph
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sharath-fsd/sharath-fsd/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+### 🐍 My GitHub Contribution Snake
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/sharath-fsd/sharath-fsd/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/sharath-fsd/sharath-fsd/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/sharath-fsd/sharath-fsd/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 </div>
 
