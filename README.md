@@ -198,22 +198,22 @@ A backend-focused rental management application for managing vehicles, users, bo
 ---
 
 # 📊 GitHub Statistics
+
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=sharath-fsd&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
+  src="https://raw.githubusercontent.com/sharath-fsd/sharath-fsd/stats-output/stats.svg"
   height="180"
-  alt="Sarath's GitHub Stats"
+  alt="Sarath's GitHub Statistics"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharath-fsd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  src="https://raw.githubusercontent.com/sharath-fsd/sharath-fsd/languages-output/languages.svg"
   height="180"
   alt="Sarath's Top Languages"
 />
 
 </div>
-
 
 # 🔥 Contribution Streak
 
