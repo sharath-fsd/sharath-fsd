@@ -1,119 +1,115 @@
 <div align="center">
 
-# 👋 Hi, I'm **Sarath K**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=SARATH%20K&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Java%20Backend%20Developer%20%7C%20Java%20Developer&descSize=20&descAlignY=58&theme=tokyonight" width="100%" />
 
-### `Java Backend Developer` | `Java Developer`
+<br>
 
-<p>
-  <a href="https://github.com/sharath-fsd">
-    <img src="https://img.shields.io/badge/GitHub-sharath--fsd-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sarath-k-2005-/">
-    <img src="https://img.shields.io/badge/LinkedIn-Sarath%20K-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://sharath-k-portfolio.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=netlify" alt="Portfolio"/>
-  </a>
-</p>
+<a href="https://github.com/sharath-fsd">
+<img src="https://img.shields.io/badge/GitHub-sharath--fsd-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://www.linkedin.com/in/sarath-k-2005">
+<img src="https://img.shields.io/badge/LinkedIn-Sarath%20K-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="https://sharath-k-portfolio.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C7B7?style=for-the-badge&logo=netlify" />
+</a>
+<a href="mailto:sharathk09122005@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" />
+</a>
 
-<p>
-  <a href="mailto:sharathk09122005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
-</p>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=sharath-fsd&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+<div align="center">
 
-I'm an **Entry-Level Java Backend Developer** passionate about building secure, scalable, and maintainable backend applications.
+## 👋 Hello, I'm Sarath K
 
-I work primarily with **Java, Spring Boot, Spring Security, Hibernate/JPA, MySQL, JWT, and REST APIs**, with additional experience in React.js for full-stack application development.
+### 💻 Java Backend Developer | Spring Boot Developer
+
+**Building secure REST APIs • Designing backend systems • Solving problems • Continuously learning**
+
+</div>
+
+---
+
+# 🚀 About Me
+
+I'm an **Entry-Level Java Backend Developer** passionate about designing and developing secure, reliable, and maintainable backend applications.
+
+My primary focus is on the **Java + Spring Boot ecosystem**, with hands-on experience in REST API development, authentication, authorization, database integration, and full-stack application development.
 
 ```text
-💻 Backend Development     → Java | Spring Boot | Spring MVC
-🔐 Application Security     → Spring Security | JWT | RBAC
-🗄️ Database                → MySQL | SQL | Hibernate | JPA
-🌐 API Development          → REST APIs | CRUD | MVC
-🧪 Testing                  → JUnit 5 | Postman
-🐳 DevOps & Build           → Docker | Maven
-🌱 Version Control           → Git | GitHub
-🎨 Frontend                 → React.js | JavaScript | HTML | CSS
-🧠 Problem Solving          → Data Structures & Algorithms
+☕ Java                  → Core Java | OOP | Collections | Exception Handling
+🚀 Spring Boot           → Spring MVC | REST APIs | CRUD | MVC Architecture
+🔐 Security              → Spring Security | JWT | Authentication | Authorization | RBAC
+🗄️ Database              → MySQL | SQL | Hibernate | JPA | RDBMS
+🌐 Frontend              → React.js | JavaScript | HTML5 | CSS3 | Bootstrap
+🧪 Testing               → JUnit 5 | Postman | API Testing
+🐳 DevOps                → Docker | Maven
+🔧 Tools                 → Git | GitHub | IntelliJ IDEA | VS Code | Axios
+🧠 Problem Solving       → Data Structures & Algorithms
 ```
 
-### 🎯 Career Objective
+### 🎯 Career Goal
 
-> Seeking a **Fresher / Entry-Level Java Backend Developer** opportunity where I can apply my Java and Spring Boot skills, build production-quality applications, solve real-world problems, and continuously grow as a software engineer.
+> Seeking a **Fresher / Entry-Level Java Backend Developer** opportunity where I can contribute to real-world software projects, strengthen my backend engineering skills, and grow into a highly skilled Java/Spring Boot developer.
 
 ---
 
 # 🛠️ Tech Stack
 
-### ☕ Backend & Java
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" />
-</p>
+### ☕ Backend Development
 
-**Java • Spring Boot • Spring MVC • Spring Security • Hibernate • JPA • REST APIs • JWT • CRUD • MVC Architecture**
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" />
+
+<br><br>
 
 ### 🗄️ Database
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql" />
 
-**MySQL • SQL • RDBMS • Database Design • Hibernate/JPA**
+<br><br>
 
 ### 🎨 Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
 
-**React.js • JavaScript ES6+ • HTML5 • CSS3 • Bootstrap • Material UI • Axios**
+<br><br>
 
 ### 🐳 Tools & DevOps
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,idea,vscode" />
-</p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,idea,vscode" />
 
-**Docker • Git • GitHub • Maven • Postman • IntelliJ IDEA • VS Code**
-
-### 🧪 Testing
-
-**JUnit 5 • Postman • API Testing • Debugging**
+</div>
 
 ---
 
 # 🔐 Backend Expertise
 
-```text
-Spring Boot
-    │
-    ├── REST Controllers
-    ├── Service Layer
-    ├── Repository Layer
-    └── Exception Handling
+<div align="center">
 
-Spring Security
-    │
-    ├── Authentication
-    ├── Authorization
-    ├── JWT Authentication
-    └── Role-Based Access Control
+| Area                | Technologies                                  |
+| ------------------- | --------------------------------------------- |
+| **Programming**     | Java, JavaScript, SQL                         |
+| **Backend**         | Spring Boot, Spring MVC, REST APIs            |
+| **Security**        | Spring Security, JWT, RBAC                    |
+| **Persistence**     | Hibernate, JPA, Spring Data JPA               |
+| **Database**        | MySQL, SQL, RDBMS                             |
+| **Architecture**    | MVC, Layered Architecture, REST Architecture  |
+| **Testing**         | JUnit 5, Postman                              |
+| **Build & DevOps**  | Maven, Docker                                 |
+| **Version Control** | Git, GitHub                                   |
+| **Frontend**        | React.js, HTML5, CSS3, Bootstrap, Material UI |
+| **Tools**           | IntelliJ IDEA, VS Code, Axios                 |
 
-Hibernate / JPA
-    │
-    ├── Entity Mapping
-    ├── CRUD Operations
-    ├── Relationships
-    └── MySQL Integration
-```
+</div>
 
 ---
 
@@ -123,9 +119,9 @@ Hibernate / JPA
 
 **Java • Spring Boot • Spring Security • JWT • Hibernate/JPA • MySQL • Maven • React.js**
 
-A full-stack management application designed to manage beauty parlour services, appointments, users, and secure application access.
+A full-stack management application for handling beauty parlour services, appointments, users, and secure application access.
 
-### Key Features
+### ✨ Key Features
 
 * 🔐 JWT-based authentication and authorization
 * 👥 Role-Based Access Control
@@ -136,7 +132,7 @@ A full-stack management application designed to manage beauty parlour services, 
 * 🌐 RESTful API architecture
 * ⚛️ React.js frontend integration
 * 📡 Axios API communication
-* 🧪 API testing using Postman
+* 🧪 API testing with Postman
 
 ---
 
@@ -144,9 +140,9 @@ A full-stack management application designed to manage beauty parlour services, 
 
 **Java • Spring Boot • React.js • MySQL • Hibernate/JPA • Maven • REST APIs**
 
-A full-stack e-commerce application demonstrating backend API development, database integration, authentication, and frontend-backend communication.
+A full-stack e-commerce application focused on backend API development, database integration, authentication, authorization, and frontend-backend communication.
 
-### Key Features
+### ✨ Key Features
 
 * 🔐 JWT-based authentication
 * 👤 Authentication & authorization
@@ -156,17 +152,17 @@ A full-stack e-commerce application demonstrating backend API development, datab
 * 🔄 Hibernate/JPA persistence
 * 🌐 RESTful backend APIs
 * ⚛️ React.js frontend
-* 📱 Responsive UI using Bootstrap
+* 📱 Responsive Bootstrap UI
 
 ---
 
 ## 🚗 Car Rental Management System
 
-**Java • Spring Boot • MySQL • Hibernate/JPA • Maven • REST APIs**
+**Java • Spring Boot • MySQL • Hibernate/JPA • Maven • REST APIs • HTML5 • CSS3**
 
-A backend-focused rental management application for managing vehicles, bookings, users, and rental operations.
+A backend-focused rental management application for managing vehicles, users, bookings, and rental operations.
 
-### Key Features
+### ✨ Key Features
 
 * 🚘 Vehicle management
 * 📅 Rental and booking management
@@ -176,28 +172,7 @@ A backend-focused rental management application for managing vehicles, bookings,
 * 🔄 Hibernate/JPA
 * 🌐 REST API development
 * 💻 Responsive HTML/CSS interface
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sharath-fsd&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharath-fsd&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
----
-
-# 🔥 GitHub Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sharath-fsd&theme=tokyonight&hide_border=true" />
-
-</div>
+* 📊 SQL-based database operations
 
 ---
 
@@ -205,14 +180,12 @@ A backend-focused rental management application for managing vehicles, bookings,
 
 <div align="center">
 
-### **182+ LeetCode Problems Solved**
-
-<img src="https://img.shields.io/badge/LeetCode-182%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-<img src="https://img.shields.io/badge/Acceptance-97.03%25-2ea44f?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LeetCode-182%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<img src="https://img.shields.io/badge/Acceptance%20Rate-97.03%25-2ea44f?style=for-the-badge" />
 
 </div>
 
-### Problem-Solving Areas
+### 📚 Problem-Solving Areas
 
 * Arrays
 * Linear Search
@@ -224,25 +197,73 @@ A backend-focused rental management application for managing vehicles, bookings,
 
 ---
 
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sharath-fsd&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharath-fsd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=sharath-fsd&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sharath-fsd/sharath-fsd/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+
+</div>
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sharath-fsd&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+
+</div>
+
+---
+
 # 🎓 Education
 
 ### Bachelor of Engineering — Electronics & Communication Engineering
 
 **King's Engineering College, Sriperumbudur**
 
-`2022 – 2026`
+📅 **2022 – 2026**
 
-**CGPA: 7.7 / 10**
+🎓 **CGPA: 7.7 / 10**
 
 ---
 
 # 📜 Certifications
 
-* 🎓 Spring Framework for Java Development — SkillUp / Coursera, 2026
-* 🎓 Java App Development Project: Fundamentals, OOP & File I/O — SkillUp / Coursera, 2026
-* 🎓 IBM Object-Oriented Programming in Java — Coursera
-* 🎓 IBM Introduction to HTML, CSS, JavaScript — Coursera
-* 🎓 React.js for Beginners — Hooks, State Management & Component Architecture — Mind Luster
+<div align="center">
+
+| Certification                                                             | Platform           | Year |
+| ------------------------------------------------------------------------- | ------------------ | ---: |
+| Spring Framework for Java Development                                     | SkillUp / Coursera | 2026 |
+| Java App Development Project: Fundamentals, OOP & File I/O                | SkillUp / Coursera | 2026 |
+| IBM Object-Oriented Programming in Java                                   | Coursera           |    — |
+| IBM Introduction to HTML, CSS, JavaScript                                 | Coursera           |    — |
+| React.js for Beginners — Hooks, State Management & Component Architecture | Mind Luster        |    — |
+
+</div>
 
 ---
 
@@ -271,33 +292,31 @@ A backend-focused rental management application for managing vehicles, bookings,
 
 # 🌱 Currently Improving
 
+<div align="center">
+
 ```text
-Java
- ├── Advanced Collections
- ├── Multithreading
- └── Exception Handling
-
-Spring Boot
- ├── Spring Security
- ├── REST API Design
- ├── Microservices
- └── Production-ready Backend Development
-
-Database
- ├── Advanced SQL
- ├── Query Optimization
- └── Database Design
-
-DevOps
- ├── Docker
- └── CI/CD Fundamentals
-
-DSA
- ├── Arrays
- ├── Searching
- ├── Sorting
- └── Problem Solving
+              JAVA BACKEND DEVELOPMENT
+                       │
+        ┌──────────────┼──────────────┐
+        │              │              │
+     JAVA CORE      SPRING BOOT    DATABASE
+        │              │              │
+   Collections     Security        Advanced SQL
+   Multithreading  REST APIs       Optimization
+   Exceptions      Microservices   Database Design
+        │              │              │
+        └──────────────┼──────────────┘
+                       │
+                    DEVOPS
+                       │
+                 Docker • CI/CD
+                       │
+                       ▼
+              PRODUCTION-READY
+              BACKEND SYSTEMS
 ```
+
+</div>
 
 ---
 
@@ -305,20 +324,26 @@ DSA
 
 <div align="center">
 
-I'm open to **Java Backend Developer**, **Java Developer**, and **Fresher Software Developer** opportunities.
+### I'm open to opportunities in:
 
-<br/>
+**Java Backend Development • Java Development • Spring Boot Development • Software Engineering**
+
+<br>
 
 <a href="https://sharath-k-portfolio.netlify.app">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-00C7B7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-00C7B7?style=for-the-badge" />
 </a>
 
 <a href="https://www.linkedin.com/in/sarath-k-2005">
-  <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/💼%20LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge" />
 </a>
 
 <a href="mailto:sharathk09122005@gmail.com">
-  <img src="https://img.shields.io/badge/📧%20Email-Contact-EA4335?style=for-the-badge" />
+<img src="https://img.shields.io/badge/📧%20Email-Contact%20Me-EA4335?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/sharath-fsd">
+<img src="https://img.shields.io/badge/💻%20GitHub-View%20Projects-181717?style=for-the-badge&logo=github" />
 </a>
 
 </div>
@@ -327,12 +352,12 @@ I'm open to **Java Backend Developer**, **Java Developer**, and **Fresher Softwa
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## ⭐ Thanks for visiting my profile!
 
-**"Building reliable backends, solving problems, and continuously learning."**
+### `"Building reliable backends, solving problems, and continuously learning."`
 
-<br/>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=sharath-fsd&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=tokyonight" width="100%" />
 
 </div>
