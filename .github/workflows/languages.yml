@@ -1,33 +1,33 @@
-name: Generate languages card
+name: Generate GitHub Languages
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule:
+    - cron: "0 */12 * * *"
 
   workflow_dispatch:
 
   push:
     branches:
-    - main
+      - main
+
+permissions:
+  contents: write
 
 jobs:
   generate:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
 
     steps:
-      - name: generate languages.svg
+      - name: Generate languages.svg
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false
+          options: username=${{ github.repository_owner }}&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true
           path: dist/languages.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-
-      - name: push languages.svg to the output branch
+      - name: Publish languages.svg
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: languages-output
