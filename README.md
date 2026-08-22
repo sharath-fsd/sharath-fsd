@@ -8,7 +8,7 @@
   <a href="https://github.com/sharath-fsd">
     <img src="https://img.shields.io/badge/GitHub-sharath--fsd-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/sarath-k-2005">
+  <a href="https://www.linkedin.com/in/sarath-k-2005-/">
     <img src="https://img.shields.io/badge/LinkedIn-Sarath%20K-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://sharath-k-portfolio.netlify.app">
